@@ -41,7 +41,10 @@ Linguagens e Ferramentas:
  </div>
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas Cantarelli Stats](https://github-readme-stats-fast.vercel.app/api?username=lucasvcantarelli&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucasvcantarelli/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucasvcantarelli&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucasvcantarelli/github-readme-stats)
+
+
+
 
 
 
